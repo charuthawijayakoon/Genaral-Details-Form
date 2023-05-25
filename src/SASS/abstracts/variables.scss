@@ -1,0 +1,65 @@
+//Fonts====================================================================================
+
+//Font-Family
+$font-family: 'Roboto', sans-serif;
+
+//Importing the "Roboto" font from web
+@import "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+
+//Font-Sizes
+$font-big: 24px;
+$font-medium: 20px;
+$font-small: 16px;
+$font-x-small: 14px;
+
+//Font-Weight
+$weight-bold: 700px;
+$weight-medium: 400px;
+$weight-light: 100px;
+
+//Letter-Spacing
+$space-high: 0.5px;
+$space-low: -0.02em;
+
+//Line-Height
+$line-height-main-head: 19px;
+$line-height-sub-head: 17px;
+
+//Colors===================================================================================
+
+//Colors
+$color_primary: #2D4190;
+$color_secondary: #747570;
+$color_ternary: #323232;
+$font-color: #272525;
+
+//Background-Colors
+$background-color: #EDEDED;
+$background-color-container: #FFFFFF;
+$bakgriund-color-button: #F9F9F9;
+$background-color-circle: #C4C4C4;
+$background-color-cancel: #F9F9F9;
+
+
+//Alignments===============================================================================
+
+//Padding
+$padding-border: 72px;
+$padding-section-break: 0 72px 0 72px;
+
+//Text Fields==============================================================================
+
+//Text Fields' Width
+$l-txt-width: 441px;
+$m1-txt-width: 325px;
+$m2-txt-width: 267px;
+$s-txt-width: 108px;
+
+//Text Fields' Height
+$l-txt-height: 104px;
+$m-txt-height: 94px;
+$s-txt-height: 46px;
+
+//Border===================================================================================
+
+$border-radius: 8px;

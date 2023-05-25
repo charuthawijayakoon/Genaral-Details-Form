@@ -1,0 +1,32 @@
+.add-button {
+    background-color: $bakgriund-color-button !important;
+    width: 5px !important;
+    border: 1px solid #F9F9F9 !important;
+    border-radius: 8px !important;
+    color: $color_primary !important;
+    min-width: 0 !important;
+}
+
+.address--button-grey{
+    width: $l-txt-width;
+    height: $l-txt-height;
+    border: 1px solid #EDEDED !important;
+    border-radius: 8px; 
+}
+
+.button--group{
+    padding-left: 825px !important;
+    font-weight: $weight-bold !important;
+
+    .button--group-cancel{
+        background-color: $background-color-cancel !important;
+        color: $color_primary !important;
+    }
+    
+    .button--group-save{
+        background-color: $color_primary !important;
+        color: $background-color-container !important;
+    }
+
+}
+

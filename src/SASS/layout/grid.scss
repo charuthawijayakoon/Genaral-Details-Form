@@ -1,0 +1,45 @@
+.main-container {
+    padding: $padding-border;
+}
+
+.grid--container-grey {
+    padding: 60px !important;
+    background-color: $background-color;
+}
+
+.grid--container-white {
+    background-color: $background-color-container;
+	padding: 42px !important;
+    box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.25) !important;
+}
+
+.upload--container-grey {
+    background-color: $bakgriund-color-button;
+    width: $l-txt-width;
+    padding-left: 48px;
+    border-radius: 8px;
+}
+
+.upload_logo {
+    border-radius: 50%;
+    background-color: $background-color-circle;
+    padding: 42px;
+    height: 4px;
+    width: 4px;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .upload--icon {
+        padding: -100px !important;
+        font-size: 'large' !important;
+        align-items: center !important;
+        display: flex !important;
+    }
+
+}
+
+.upload--container-main{
+    width: 880px;
+}

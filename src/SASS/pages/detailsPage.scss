@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(122, 122, 119);
+}
+
+.heading {
+    text-align: left;
+}
+
+.seperator--line-grey {
+    padding: $padding-section-break;
+    color: $background-color;
+    width: 1000px;
+}
+
+.upload-section {
+    font-size: $font-small;
+    font-weight: $weight-medium;
+    padding-top: 12px;
+    padding-left: 40px;
+    .upload--title-sub {
+        color: $color_secondary;
+    }
+
+    .upload--title-main {
+        color: $font-color;
+    }
+}
+
+.address--button-text {
+    font-weight: $weight-bold !important;
+    color: $color_primary !important;
+}
